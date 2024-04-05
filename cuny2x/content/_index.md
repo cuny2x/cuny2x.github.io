@@ -10,20 +10,34 @@ draft = false
 
 #### About
 
-CUNY 2X career program at LaGuardia Community College will help all students find an Internship, Apprenticeship, or job to launch their careers. Our mission is to assist students and alumni in identifying their career goals and securing employment that fulfills them. We help every step of the way. 
+CUNY 2X career program at LaGuardia Community College will help all students find an internship, apprenticeship, or other job opportunities to launch their careers. Our mission is to assist students in identifying their career goals and securing employment that fulfills them. We help in every step of their way. 
 
 The CUNY 2X Tech initiative is expanding access to internships in tech firms, boosting employment outcomes for undergraduates, bringing industry expertise into classrooms.
 
 #### Approach & Objectives
 
-CUNY 2x Tech’s approach to doubling the number of tech associate degree awarded and increasing students’ ability to secure and succeed in tech jobs is focused on building the capacity of Computer Science Departments. We will work together with the City and industry partners to decrease time to graduation and increase alignment of education with the preparation needed to succeed in today and tomorrow’s tech jobs. Specific objectives include: 
++ Increase graduation rates of all students enrolling in CUNY CS and related degree programs; 
++ Connect 70% of CUNY CS students to paid internships and/or apprenticeships in the field at market-rate salaries; 
++ Connect 70% of CUNY CS graduates to full-time employment in the field at market-rate salaries; 
++ Expanded, industry-aligned curriculum and instruction in Computer Science and related disciplines 
++ Tech-specific academic and career advisement  
++ Make active strides to produce student outcomes that are equitable. 
 
-+ Updated Instruction: Increase departmental capacity to get students through the CS associate’s degree program, by removing course bottlenecks. Recruit and equip tech professionals to serve as industry adjuncts, delivering up-to-date content on in-demand emerging technology and their applications in the real world.
+#### Advantages of Joining CUNY 2X Tech Academy for Students
 
-+ Tech-Specific Advising: Ensure students have insight into the tech ecosystem, potential careers, hiring cycles, and which courses, co-curricular activities, projects, and work experiences they should take pursue – and at what time - in order to successfully pursue specific careers following graduation by providing tech-specific advising. Establish mechanism for colleges to gain insight into the preparedness of students for post-graduate careers and where students are encountering obstacles to advancement to graduation and jobs.
++ Internship
++ Apprenticeship
++ Career Readiness
++ Job Placement
++ Professional Development Seminars
++ Academic Advisement
 
-+ On-the-Job Experience: Ensure students have the skills, exposure, and preparation needed to secure and succeed in tech internships at companies that have capacity to convert internships into full time offers. Build capacity for departments to maintain a constant feedback loop with industry in order to understand how interns from the college meet employers’ evolving needs and to make appropriate changes to courses and co-curricular services as a result. 
+#### Application
 
+Applications for CUNY 2X Tech @ LaGuardia Community College are now open to all students who are currently enrolled in any of our computer majors.
+
+
+{{% button href="https://forms.gle/FseXgbecGNpMSw7H6" icon="fa fa-mouse-pointer" %}}Apply to The CUNY 2X Program{{% /button %}}
 
 #### Contact 
 

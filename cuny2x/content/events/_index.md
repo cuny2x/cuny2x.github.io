@@ -1,5 +1,5 @@
 +++
-title = 'Upcoming Events'
+title = 'Upcoming Events & Seminars'
 date = 2024-03-31T13:35:49-04:00
 pre = "<i class='fa fa-calendar'></i> "
 draft = false
@@ -62,9 +62,10 @@ This Seminar is intended for entry-level computer support professional with a ba
 	- Thursday, May 16, 2024
 	- Thursday, May 23, 2024
 
-+ Event Modality: TBA
++ Event Modality: In-person
++ Room Number: B318
 
-{{% button href="#" %}}Register Here{{% /button %}}
+{{% button href="https://forms.gle/JnFzcoRsrxunjQk68" %}}Register Here{{% /button %}}
 
 ---
 
@@ -119,5 +120,5 @@ The workshop will take place on 4 Monday afternoons.
 
 + Event Modality: Virtual via Zoom
 
-{{% button href="#" %}}Register Here{{% /button %}}
+{{% button href="https://us02web.zoom.us/meeting/register/tZ0ocuyoqDwrHdH1yw09jmlYVZV22yBebeRW#/registration" %}}Register Here{{% /button %}}
 
