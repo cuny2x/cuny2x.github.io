@@ -461,10 +461,10 @@ h2, h3, h4, h5, h6 {
     letter-spacing: -1px;
 }
 h1 {
-    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "DM Serif Display","Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     text-align: center;
     text-transform: uppercase;
-    color: #222;
+    color: #dc1010;
     font-weight: 200;
 }
 blockquote {
@@ -504,15 +504,15 @@ div.notices p:first-child:before {
 div.notices p:first-child:after {
     position: absolute;
     top: 2px;
-    color: #fff;
+    color: #000000;
     left: 2rem;
 }
 div.notices.info p {
     border-top: 30px solid #F0B37E;
-    background: #FFF2DB;
+    background: #d1e9ed;
 }
 div.notices.info p:first-child:after {
-    content: 'Info';
+    content: 'Event Details';
 }
 div.notices.warning p {
     border-top: 30px solid rgba(217, 83, 79, 0.8);

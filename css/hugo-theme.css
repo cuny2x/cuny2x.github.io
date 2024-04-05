@@ -106,8 +106,8 @@ body {
 }
 
 .btn-default {
-  color: #333 !important;
-  background-color: #fff !important;
+  color: #fff !important;
+  background-color: #db343d !important;
   border-color: #ccc !important;
 }
 .btn-default:hover,
