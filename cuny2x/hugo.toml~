@@ -1,4 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Welcome to CUNY 2X at LaGuardia Community College'
-theme = "hugo-theme-learn"
