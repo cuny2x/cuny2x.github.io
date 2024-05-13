@@ -10,7 +10,8 @@ draft = false
 
 #### About
 
-CUNY 2X career program at LaGuardia Community College will help all students find an internship, apprenticeship, or other job opportunities to launch their careers. Our mission is to assist students in identifying their career goals and securing employment that fulfills them. We help in every step of their way. 
+Welcome to CUNY 2X Tech Academy at LaGuardia Community College. Our mission is to provide computer major students with academic advisement, career coaching, professional development opportunities and seminars; and assist them with internships, apprenticeships, and job opportunities. We help every step of the way.
+ 
 
 The CUNY 2X Tech initiative is expanding access to internships in tech firms, boosting employment outcomes for undergraduates, bringing industry expertise into classrooms.
 
