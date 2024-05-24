@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/apply/</loc>
     <lastmod>2024-03-31T13:35:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2024-03-31T13:35:49-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/intern/</loc>
     <lastmod>2024-03-31T13:35:49-04:00</lastmod>
   </url><url>
@@ -18,6 +15,9 @@
     <lastmod>2024-03-31T13:35:49-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/advise/</loc>
+    <lastmod>2024-03-31T13:35:49-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-03-31T13:35:49-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
